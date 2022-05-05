@@ -1,7 +1,7 @@
 # Versawriter_Prototype Picture forming tool
 
 ## Helper tool for Hand-held Versawriter 
-This is helper tool for Versa Writer using M5Atom matrix or M5Stick-C ( https://github.com/thorv/Versawriter_main )
+This is helper tool for Versa Writer using M5Atom matrix or M5Stick-C ( https://github.com/thorv/Versawriter_main )  
 Picture forming tool by 'Processing Ver 3.5.4' ( https://processing.org )
 
 ## Overview
